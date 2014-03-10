@@ -1,0 +1,13 @@
+.sText{
+	font-size: 120px;
+	color: #e74c3c;
+	font-weight: bold;
+	-webkit-transition: color 1s;
+	-moz-transition: color 1s;
+	-o-transition: color 1s;
+	 transition: color 1s;
+}
+.sText:hover{
+	color: #27ae60;
+}
+
